@@ -81,10 +81,10 @@ export const uniModals: Model[] = [
         type: 'universal'
     },
     {
-        id: 'gemma-2-27b-it',
-        name: 'Gemma 2 27b',
+        id: 'gemini-1.0-pro',
+        name: 'Gemini 1.0 Pro',
         provider: 'google',
-        type: 'chat'
+        type: 'universal'
     },
     {
         id: 'gemini-1.5-pro-002',
