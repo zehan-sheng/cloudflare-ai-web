@@ -100,6 +100,26 @@ export const textGenModels: Model[] = [{
     provider: 'workers-ai',
     type: 'chat'
 }, {
+    id: '@cf/deepseek-ai/deepseek-r1-distill-qwen-32b',
+    name: 'deepseek-r1-distill-qwen-32b',
+    provider: 'workers-ai',
+    type: 'chat'
+}, {
+    id: '@cf/deepseek-ai/deepseek-math-7b-instruct',
+    name: 'deepseek-math-7b-instruct',
+    provider: 'workers-ai',
+    type: 'chat'
+}, {
+    id: '@cf/mistral/mistral-7b-instruct-v0.1',
+    name: 'mistral-7b-instruct-v0.1',
+    provider: 'workers-ai',
+    type: 'chat'
+}, {
+    id: '@cf/tiiuae/falcon-7b-instruct',
+    name: 'falcon-7b-instruct',
+    provider: 'workers-ai',
+    type: 'chat'
+}, {
     id: '@cf/openchat/openchat-3.5-0106',
     name: 'openchat-3.5-0106',
     provider: 'workers-ai',
