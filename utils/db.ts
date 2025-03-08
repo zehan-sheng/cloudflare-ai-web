@@ -157,13 +157,8 @@ export const imageGenModels: Model[] = [{
     provider: 'workers-ai-image',
     type: 'text-to-image'
 }, {
-    id: '@cf/black-forest-labs/flux-1-schnell',
-    name: 'flux-1-schnell',
-    provider: 'workers-ai-image',
-    type: 'text-to-image'
-}, {
-    id: '@cf/runwayml/stable-diffusion-v1-5-inpainting',
-    name: 'stable-diffusion-v1-5-inpainting',
+    id: '@cf/unum/uform-gen2-qwen-500m',
+    name: 'uform-gen2-qwen-500m',
     provider: 'workers-ai-image',
     type: 'text-to-image'
 }, {
